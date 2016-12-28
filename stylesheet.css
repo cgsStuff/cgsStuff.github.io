@@ -1,0 +1,33 @@
+body
+{ margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#header {
+  margin: 20px;
+  padding: 10px;
+  height: 100px;
+}
+#left {
+  position: absolute;
+  left: 15px;
+  top: 160px;
+  width: 200px;
+}
+#center {
+  top: 0;
+  margin-left: 230px;
+  margin-right: 230px;
+}
+#right {
+  position: absolute;
+  right: 15px;
+  top: 160px;
+  width: 200px;
+}
+
+~         
